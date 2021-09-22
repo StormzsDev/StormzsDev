@@ -10,4 +10,4 @@ i code in these langs
 ```
 and thats it [whats this](https://discord.com/@me)
 
-![My guthub](https://github-readme-stats.vercel.app/api/?username=NeonGamerBot-QK&count_private=true&theme=tokyonight&showicons=true)
+![My guthub](https://github-readme-stats.vercel.app/api/?username=officialdamehamz&count_private=true&theme=tokyonight&showicons=true)
