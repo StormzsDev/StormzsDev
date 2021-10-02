@@ -1,5 +1,5 @@
-## hey its me, Neon
-i code in these langs
+## It's me Stormzs
+Stormzs founded by a 13 years old kid. He learned how to code 3 years ago.
 
 ## Language that i learn
 ```json
@@ -11,4 +11,8 @@ i code in these langs
 }
 ```
 
-![My guthub](https://github-readme-stats.vercel.app/api/?username=StormzsDev&count_private=true&theme=tokyonight&showicons=true)
+## My Websites
+[Main Websites](https://stormzs.cf) [Hastebin Website](https//haste.stormzs.cf) [Status Website](https://stormzs.cf/status)
+
+
+![My github](https://github-readme-stats.vercel.app/api/?username=StormzsDev&count_private=true&theme=tokyonight&showicons=true)
